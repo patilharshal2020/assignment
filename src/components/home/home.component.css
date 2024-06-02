@@ -1,0 +1,8 @@
+.tabs-div{
+    margin: 20px 40px;
+}
+
+.new-tab-btn{
+    display: flex;
+    justify-content: end;
+}

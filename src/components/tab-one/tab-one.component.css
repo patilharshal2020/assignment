@@ -1,0 +1,17 @@
+.form-div{
+    margin: 40px 20%;
+}
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+.submit-btn{
+    display: flex;
+    justify-content: end;
+}
